@@ -1,0 +1,2 @@
+# CrowdFundingMini
+mini group project
